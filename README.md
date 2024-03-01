@@ -42,7 +42,7 @@
 
 <!-- Metrics -->
 <details open>
-  <summary><b>📊 Metrics (Yes, I have a few private repo's 😜)</b></summary>
+  <summary><b>📊 Metrics (Yes, I have a few private repos 😜)</b></summary>
     <p>
 <a href="https://github.com/Chillsmeit">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r0fld4nc3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
