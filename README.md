@@ -11,37 +11,25 @@
    </kbd>
 </p>
 
-
 <!-- Tech Stack -->
-<details open>
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
+<h4><b>🛠️ Tech Stack</b></h4>
 
-| **Category** | **Technologies** |
+| Category | Software |
 | - | - |
-**OS's**| [![Windows 11](https://img.shields.io/badge/windows-11?style=flat&logo=windows-11&logoColor=blue&color=gray)](https://www.microsoft.com/software-download/windows11) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://support.apple.com/downloads/macos)|
-**Editors**| [![IntelliJ PyCharm](https://img.shields.io/badge/IntelliJ_PyCharm-PyCharm?style=flat&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/download/) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white)](https://vscodium.com/) [![VS Code](https://img.shields.io/badge/VSCode-vscode?style=flat&logo=visual-studio-code&logoColor=blue&color=gray)](https://code.visualstudio.com/)
-**Comfortable**| [![Python3](https://img.shields.io/badge/Python-python?style=flat&logo=python&color=yellow)](https://www.python.org/)
-**Learning**| [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)  [![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css) [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/) <br> [![Markdown](https://img.shields.io/badge/Markdown-1b1b1b?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) [![ZSH](https://img.shields.io/badge/Zsh-zsh?style=flat&logo=zsh&logoColor=black)](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+| **OS's**| [![Windows 11](https://img.shields.io/badge/windows-11?style=flat&logo=windows-11&logoColor=blue&color=gray)](https://www.microsoft.com/software-download/windows11) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://support.apple.com/downloads/macos) |
+**Editors**| [![IntelliJ PyCharm](https://img.shields.io/badge/IntelliJ_PyCharm-PyCharm?style=flat&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/download/) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white)](https://vscodium.com/) [![VS Code](https://img.shields.io/badge/VSCode-vscode?style=flat&logo=visual-studio-code&logoColor=blue&color=gray)](https://code.visualstudio.com/) |
+**Comfortable**| [![Python3](https://img.shields.io/badge/Python-python?style=flat&logo=python&color=yellow)](https://www.python.org/) |
+**Learning**| [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)  [![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css) [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/) <br> [![Markdown](https://img.shields.io/badge/Markdown-1b1b1b?style=flat&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) [![ZSH](https://img.shields.io/badge/Zsh-zsh?style=flat&logo=zsh&logoColor=black)](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=black)](https://www.linux.org/) |
 
-</p>
-</details>
+<!-- 3D Stack -->
+<h4><b>🖌 3D Stack</b></h4>
 
-<!-- Tech Stack -->
-<details open>
-  <summary><b>🖌 3D Stack</b></summary>
-    <p>
-
-| **Category** | **Technologies** |
+| Category | Software |
 | - | - |
-**Modelling**| [![Blender](https://img.shields.io/badge/Blender-blender?style=flat&logo=blender&color=gray)](https://www.blender.org/) [![3ds Max](https://img.shields.io/badge/3ds_Max-3dsmax?style=flat&logo=autodesk&logoColor=teal&color=gray)](https://www.autodesk.com/products/3ds-max) [![Maya](https://img.shields.io/badge/Maya-maya?style=flat&logo=autodeskmaya&logoColor=teal&color=gray)](https://www.autodesk.com/products/maya/)
-**Baking**| [![Marmoset Toolbag 4](https://img.shields.io/badge/Marmoset_Toolbag_4-marmoset4?style=flat&color=gray)](https://marmoset.co/)
-**Texturing**| [![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-painter?style=flat&logo=adobe&logoColor=red&color=gray)](https://www.adobe.com/products/substance3d-painter.html)
-**Extra**| [![UE5](https://img.shields.io/badge/Unreal%20Engine%205-ue5?style=flat&logo=unrealengine&logoColor=white&color=gray)](https://www.unrealengine.com/en-US) [![Unity Editor](https://img.shields.io/badge/Unity-unite?style=flat&logo=unity&logoColor=white&color=gray)](https://unity.com/) [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-photoshop?style=flat&logo=adobephotoshop&logoColor=darkblue)](https://www.adobe.com/products/photoshop.html)
-
----
-</p>
-</details>
+| **Modelling**| [![Blender](https://img.shields.io/badge/Blender-blender?style=flat&logo=blender&color=gray)](https://www.blender.org/) [![3ds Max](https://img.shields.io/badge/3ds_Max-3dsmax?style=flat&logo=autodesk&logoColor=teal&color=gray)](https://www.autodesk.com/products/3ds-max) [![Maya](https://img.shields.io/badge/Maya-maya?style=flat&logo=autodeskmaya&logoColor=teal&color=gray)](https://www.autodesk.com/products/maya/) |
+| **Baking**| [![Marmoset Toolbag 4](https://img.shields.io/badge/Marmoset_Toolbag_4-marmoset4?style=flat&color=gray)](https://marmoset.co/) |
+| **Texturing**| [![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-painter?style=flat&logo=adobe&logoColor=red&color=gray)](https://www.adobe.com/products/substance3d-painter.html) |
+| **Extra**| [![UE5](https://img.shields.io/badge/Unreal%20Engine%205-ue5?style=flat&logo=unrealengine&logoColor=white&color=gray)](https://www.unrealengine.com/en-US) [![Unity Editor](https://img.shields.io/badge/Unity-unite?style=flat&logo=unity&logoColor=white&color=gray)](https://unity.com/) [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-photoshop?style=flat&logo=adobephotoshop&logoColor=darkblue)](https://www.adobe.com/products/photoshop.html) |
 
 <!-- Metrics -->
 <details open>
