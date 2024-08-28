@@ -2,7 +2,7 @@
 <h1 align="center" title="Hello there!">👋 Hello There! 𝙸'𝚖 Artur</h1>
 
 <!-- Intro Summary -->
-<h4 align="center">I'm a 3D/Technical Artist wokring in the Industry, always keen to learn more about Tools, Systems Design and Algorithms! Coding something into reality spurs a sort of inexplicale happiness, especially when others beneift from it. I've started with Python but I am now working my way through proper Algorithms and Data Structures, C++, JavaScript, HTML and Bash/Zsh!</h4>
+<h4 align="center">I'm a 3D/Technical Artist wokring in the Industry, always keen to learn more about Tools, Systems Design and Algorithms! Coding something into reality spurs a sort of inexplicale happiness, especially when others beneift from it. I've started with Python but I am now working my way through proper Algorithms and Data Structures, Rust and Bash/Zsh!</h4>
 
 <!-- Socials -->
 <p align="center">
