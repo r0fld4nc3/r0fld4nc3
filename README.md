@@ -42,14 +42,15 @@
 </p>
 </details>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0fld4nc3&theme=github&hide_border=true&height=250&radius=8" alt="activity graph" />
+</div>
+
 
 <!-- About Section -->
 <details>
   <summary><b>👤 More About Me</b></summary>
     <p>
-      
-<blockquote>
-
 I'm a passionate 3D Technical Artist at an Art Outsourcing Studio in Germany, working on various Tooling and Pipeline integrations as well as Backend/Frontend-ish maintainer. <br>
 
 I'm pretty much all self-taught, having passed through University, however, it was still a rather new subject at the time and unfortunately what came from it was limited. <br>
@@ -60,7 +61,6 @@ I love Tech 💻 in general, but have also grown to love the outdoors 🌲 just 
 Though where I spend most of my time is either gaming 🎮 or personal projects!<br>
 
 Additionally, I'm a sucker for FOSS 💿, Privacy 🥷 and Security 🔒! <br>
-</blockquote>
     
 ----
   </p>
