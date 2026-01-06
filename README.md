@@ -9,6 +9,7 @@
    <kbd>
       <a href="mailto:tech.xtxni@8shield.net" title="Email Address"><img src="https://img.shields.io/badge/Mail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
       <a href="https://www.ko-fi.com/r0fld4nc3" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" /></a>
+      <a href="https://www.buymeacoffee.com/r0fld4nc3" title="Ko-Fi"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a>
    </kbd>
 </p>
 
