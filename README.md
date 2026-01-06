@@ -51,16 +51,13 @@
 <details>
   <summary><b>👤 More About Me</b></summary>
     <p>
-I'm a passionate 3D Technical Artist at an Art Outsourcing Studio in Germany, working on various Tooling and Pipeline integrations as well as Backend/Frontend-ish maintainer. <br>
+I'm a self-taught, passionate 3D Technical Artist at an Art Outsourcing Studio, working on various Tooling and Pipeline integrations.
 
-I'm pretty much all self-taught, having passed through University, however, it was still a rather new subject at the time and unfortunately what came from it was limited. <br>
+I love Tech in general, but have also grown to love the outdoors just as much. And... cats 🙀! Furthermore, I've recently rekindled a passion for reading, which has taken up some time now in my daily life!
 
-I am currently a developer/3D Artist on a mod project called Galactic Contention - A total conversion mod for Squad <br>
+Though where I spend most of my time is either gaming or personal projects!
 
-I love Tech 💻 in general, but have also grown to love the outdoors 🌲 just as much. And... cats 🙀! Furthermore, I've recently rekindled a passion for reading 📖, which has taken up some time now in my daily life!<br>
-Though where I spend most of my time is either gaming 🎮 or personal projects!<br>
-
-Additionally, I'm a sucker for FOSS 💿, Privacy 🥷 and Security 🔒! <br>
+Additionally, I'm a sucker for FOSS 💿, Privacy 🥷 and Security 🔒!
     
 ----
   </p>
