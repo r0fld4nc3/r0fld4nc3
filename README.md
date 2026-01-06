@@ -8,6 +8,7 @@
 <p align="center">
    <kbd>
       <a href="mailto:tech.xtxni@8shield.net" title="Email Address"><img src="https://img.shields.io/badge/Mail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
+      <a href="https://www.ko-fi.com/r0fld4nc3" title="Ko-Fi"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" /></a>
    </kbd>
 </p>
 
